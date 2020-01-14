@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">GroupChat</string>
+    <string name="title">欢迎使用GroupChat!</string>
+    <string name="enter_name">账号</string>
+    <string name="group_id">群聊ID</string>
+    <string name="btn_join">加入群聊</string>
+    <string name="btn_register">选择头像</string>
+    <string name="btn_send">发送</string>
+    <string name="file_name">图片名</string>
+    <string name="repost_group_id">群聊ID</string>
+    <string name="btn_repost">转发</string>
+    <string name="tv_show">人脸检测</string>
+</resources>
